@@ -1,0 +1,19 @@
+.left {
+	margin-top: 10px; 
+}
+
+.top {
+	margin-top: 20px; 
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+.element-font {
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+#score {
+	margin-top: 20px;
+	margin-bottom: 20px;  
+}
