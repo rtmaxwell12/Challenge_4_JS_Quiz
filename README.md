@@ -13,6 +13,6 @@ Installation is not required. The application can be accessed via the deployed l
 
 The starting page looks like:
 
-
+![Untitled](https://user-images.githubusercontent.com/113951402/216235326-b144e76c-ee19-4c62-8248-9a6e31f7f1e2.png)
 
 This is deployed at:
